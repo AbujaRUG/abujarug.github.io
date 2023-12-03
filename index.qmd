@@ -1,0 +1,26 @@
+---
+title: "Abuja R User Group"
+image: media/AbujaRUG.png
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/AbujaRUG
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/abuja-r-user-group-669ab521b/
+    - icon: github
+      text: Github
+      href: https://github.com/abujarug
+---
+
+About Abuja R User Group
+
+Abuja RUG is a community of R users both from the industry and academia. The community encompasses users at all skill levels based in Abuja, FCT, Nigeria. We meet to learn, mentor and discuss R-related topics and to promote the use of R.
+
+Our mission is build a strong community of Data Science, AI and ML professional and academics using R in Abuja through collaboration, mentorship seminars, training and conferences.
+
+Experienced Academics and Professionals volunteer in webinars, seminars and classes to help, teach and mentor upcoming Researchers, Data Scientist, Data Analytics.

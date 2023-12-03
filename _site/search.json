@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Abuja R User Group",
+    "section": "",
+    "text": "About Abuja R User Group\nAbuja RUG is a community of R users both from the industry and academia. The community encompasses users at all skill levels based in Abuja, FCT, Nigeria. We meet to learn, mentor and discuss R-related topics and to promote the use of R.\nOur mission is build a strong community of Data Science, AI and ML professional and academics using R in Abuja through collaboration, mentorship seminars, training and conferences.\nExperienced Academics and Professionals volunteer in webinars, seminars and classes to help, teach and mentor upcoming Researchers, Data Scientist, Data Analytics."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Abuja R User Group",
+    "section": "",
+    "text": "Igniting Innovation: Bilikisu Wunmi Olatunji’s Journey with Abuja’s Thriving R User Community\n\n\n\n\n\n\nnews\n\n\n\nBilikisu’s interview with R Consortium\n\n\n\n\n\nDec 3, 2023\n\n\nBilikisu Olatunji\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nNov 30, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/r-consortium-interview/r-consortium-interview.html",
+    "href": "posts/r-consortium-interview/r-consortium-interview.html",
+    "title": "Igniting Innovation: Bilikisu Wunmi Olatunji’s Journey with Abuja’s Thriving R User Community",
+    "section": "",
+    "text": "The R Consortium recently caught up with Bilikisu Wunmi Olatunji, founder of the Abuja R User Group and R-Ladies Abuja. Bilikisu shared they began conducting in-person meetups last month by adding new types of gatherings, such as focus groups, quarterly workshops, and more. The October event was a success, as the group now has members from diverse fields, including a lawyer. Currently, the group is planning more exciting events for the upcoming year. Read more here"
+  }
+]
