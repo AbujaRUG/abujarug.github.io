@@ -1,10 +1,14 @@
 project:
   type: website
   output-dir: docs
+
 website:
   title: "Abuja R User Group"
   site-url: https://abujarug.github.io/
+  favicon: "media/AbujaRUG.png"
   description: "Abuja R User Group website"
+  open-graph:
+    image: "media/AbujaRUG.png"
   navbar:
     right:
       - text: Blog
