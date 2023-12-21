@@ -13,8 +13,8 @@ website:
     right:
       - text: Blog
         href: blog.qmd
-      - text: Feedback
-        href: feedback.qmd
+      - text: News/Events
+        href: news_events.qmd
       - icon: linkedin
         href: https://www.linkedin.com/in/abuja-r-user-group-669ab521b/
       - icon: github
