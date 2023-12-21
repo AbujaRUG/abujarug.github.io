@@ -1,1 +1,5 @@
-/* css styles */
+/*-- scss:defaults --*/
+
+body {
+  background: linear-gradient(to left, #93A5CF, #E4EfE9, #93A5CF);
+}

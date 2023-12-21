@@ -17,7 +17,7 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1.6em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
 </style>
@@ -55,7 +55,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -80,6 +81,7 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">Abuja R User Group</span>
     </a>
   </div>
+            <div id="quarto-search" class="" title="Search"></div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -88,6 +90,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link" href="./blog.html" rel="" target="">
  <span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./feedback.html" rel="" target="">
+ <span class="menu-text">Feedback</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.linkedin.com/in/abuja-r-user-group-669ab521b/" rel="" target=""><i class="bi bi-linkedin" role="img">
@@ -141,15 +147,15 @@ ul.task-list li input[type="checkbox"] {
 </main> 
   <hr class="about-sep">
    <div class="about-links">
-  <a href="https://twitter.com/AbujaRUG" class="about-link">
+  <a href="https://twitter.com/AbujaRUG" class="about-link" rel="" target="">
     <i class="bi bi-twitter"></i>
      <span class="about-link-text">Twitter</span>
   </a>
-  <a href="https://linkedin.com/abuja-r-user-group-669ab521b/" class="about-link">
+  <a href="https://linkedin.com/abuja-r-user-group-669ab521b/" class="about-link" rel="" target="">
     <i class="bi bi-linkedin"></i>
      <span class="about-link-text">LinkedIn</span>
   </a>
-  <a href="https://github.com/abujarug" class="about-link">
+  <a href="https://github.com/abujarug" class="about-link" rel="" target="">
     <i class="bi bi-github"></i>
      <span class="about-link-text">Github</span>
   </a>
@@ -176,9 +182,23 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
   const clipboard = new window.ClipboardJS('.code-copy-button', {
-    target: function(trigger) {
-      return trigger.previousElementSibling;
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
     }
   });
   clipboard.on('success', function(e) {
