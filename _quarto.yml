@@ -15,6 +15,8 @@ website:
         href: blog.qmd
       - text: News/Events
         href: news_events.qmd
+      - text: Study Groups
+        href: study_groups.qmd
       - icon: linkedin
         href: https://www.linkedin.com/in/abuja-r-user-group-669ab521b/
       - icon: github

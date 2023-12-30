@@ -1,0 +1,16 @@
+---
+title: "R for Geospatial Analysis"
+date: "2023-12-30"
+categories: ['study groups']
+description: "R for Geospatial Analysis Study Group"
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+comments:
+  utterances:
+    repo: AbujaRUG/abujarug.github.io
+---
+
+Join our study group focused on leveraging R for Geospatial Analysis. Explore the integration of spatial data manipulation, visualization, and statistical modeling using R packages like sf, leaflet, and raster. Collaborate with fellow participants to tackle real-world geospatial challenges, from mapping to spatial analytics. Whether you're a beginner or experienced R user, this group offers a supportive environment to enhance your geospatial skills and apply them to diverse domains. Join us to unlock the potential of R for spatial exploration and problem-solving. The book for the group is [Geocomputation with R](https://r.geocompx.org/)
