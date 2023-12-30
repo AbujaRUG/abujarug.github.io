@@ -1,0 +1,16 @@
+---
+title: "R for Epidemiology"
+date: "2023-12-30"
+categories: ['study groups']
+description: "R for Epidemiology Study Group"
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+comments:
+  utterances:
+    repo: AbujaRUG/abujarug.github.io
+---
+
+Join our study group focused on using R for epidemiology! Whether you're a novice or an experienced epidemiologist, this collaborative space welcomes all. Explore R's powerful statistical and data visualization capabilities tailored for epidemiological research. Discuss topics like data cleaning, statistical modeling, and creating compelling visualizations. Engage in practical exercises, share insights, and enhance your R skills within a supportive community. Let's advance epidemiological research through the versatile and open-source capabilities of R. Join us to learn, collaborate, and apply R to make a meaningful impact in the field of epidemiology! The book for the group is [R for applied epidemiology and public health](https://epirhandbook.com/en/)

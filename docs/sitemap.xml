@@ -2,22 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://abujarug.github.io/posts/r-consortium-interview/r-consortium-interview.html</loc>
-    <lastmod>2023-12-21T20:09:54.879Z</lastmod>
+    <lastmod>2023-12-30T19:50:35.458Z</lastmod>
   </url>
   <url>
     <loc>https://abujarug.github.io/index.html</loc>
-    <lastmod>2023-12-21T20:07:15.435Z</lastmod>
+    <lastmod>2023-12-30T20:19:53.417Z</lastmod>
   </url>
   <url>
     <loc>https://abujarug.github.io/blog.html</loc>
-    <lastmod>2023-12-21T20:10:19.988Z</lastmod>
+    <lastmod>2023-12-30T20:20:11.298Z</lastmod>
   </url>
   <url>
     <loc>https://abujarug.github.io/feedback.html</loc>
-    <lastmod>2023-12-21T20:07:15.056Z</lastmod>
+    <lastmod>2023-12-30T20:18:53.862Z</lastmod>
   </url>
   <url>
     <loc>https://abujarug.github.io/news_events.html</loc>
-    <lastmod>2023-12-21T20:10:17.443Z</lastmod>
+    <lastmod>2023-12-30T20:47:30.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abujarug.github.io/study_groups.html</loc>
+    <lastmod>2023-12-30T20:47:35.369Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abujarug.github.io/posts/r-shiny/r-shiny.html</loc>
+    <lastmod>2023-12-30T20:18:59.852Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abujarug.github.io/study_groups/r-shiny/r-shiny.html</loc>
+    <lastmod>2023-12-30T20:47:06.494Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abujarug.github.io/study_groups/r-epidemiology/r-epidemiology.html</loc>
+    <lastmod>2023-12-30T20:47:10.916Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abujarug.github.io/study_groups/r-dsa/r-dsa.html</loc>
+    <lastmod>2023-12-30T20:46:49.581Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abujarug.github.io/study_groups/r-econometrics/r-econometrics.html</loc>
+    <lastmod>2023-12-30T20:45:56.813Z</lastmod>
+  </url>
+  <url>
+    <loc>https://abujarug.github.io/study_groups/r-geospatial/r-geospatial.html</loc>
+    <lastmod>2023-12-30T20:45:57.941Z</lastmod>
   </url>
 </urlset>

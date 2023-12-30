@@ -1,0 +1,16 @@
+---
+title: "R for Econometrics"
+date: "2023-12-30"
+categories: ['study groups']
+description: "R for Econometrics Study Group"
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+comments:
+  utterances:
+    repo: AbujaRUG/abujarug.github.io
+---
+
+Join our R for Econometrics Study Group! Dive into practical applications of R in economic analysis. This group welcomes enthusiasts, from beginners to experienced users, to explore R's powerful statistical and data visualization capabilities. Through collaborative sessions, we'll enhance econometric skills, discuss real-world applications, and share valuable resources. Whether you're into regression analysis, time-series modeling, or data visualization, this group offers a supportive environment to boost your proficiency in R for econometrics. Let's unravel the insights hidden in data together! The book for the group is [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)

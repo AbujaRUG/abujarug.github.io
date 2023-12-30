@@ -2,7 +2,18 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/r-shiny/r-shiny.html",
       "/posts/r-consortium-interview/r-consortium-interview.html"
+    ]
+  },
+  {
+    "listing": "/study_groups.html",
+    "items": [
+      "/study_groups/r-dsa/r-dsa.html",
+      "/study_groups/r-econometrics/r-econometrics.html",
+      "/study_groups/r-epidemiology/r-epidemiology.html",
+      "/study_groups/r-geospatial/r-geospatial.html",
+      "/study_groups/r-shiny/r-shiny.html"
     ]
   }
 ]

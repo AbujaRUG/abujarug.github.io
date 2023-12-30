@@ -1,0 +1,16 @@
+---
+title: "R for Data Science and Analysis"
+date: "2023-12-30"
+categories: ['study groups']
+description: "R for Data Science and Analysis Study Group"
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+comments:
+  utterances:
+    repo: AbujaRUG/abujarug.github.io
+---
+
+Join our study group for R Data Science and Analysis enthusiasts! Dive into statistical modeling, data visualization, and machine learning with R. Collaborate on real-world projects, share insights, and enhance your skills in a supportive community. Whether you're a beginner or an experienced R user, our group offers a dynamic environment to explore the power of R for effective data analysis. Let's learn, code, and grow together! The book for the group is [R for Data Science](https://r4ds.hadley.nz/)

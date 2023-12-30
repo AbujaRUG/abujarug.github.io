@@ -1,0 +1,16 @@
+---
+title: 'R/Python Shiny'
+date: "2023-12-30"
+categories: ['study groups']
+description: "R/Python Shiny Study Group"
+execute: 
+  message: false
+  warning: false
+editor_options: 
+  chunk_output_type: console
+comments:
+  utterances:
+    repo: AbujaRUG/abujarug.github.io
+---
+
+Join our dynamic study group focused on R and Python Shiny development! Whether you're a beginner or an experienced coder, we collaborate, share insights, and tackle challenges in building interactive web applications. Dive into the world of Shiny, exchange best practices, and elevate your data visualization and application-building skills. Let's explore the endless possibilities together in this supportive and knowledge-sharing community. Join us to amplify your Shiny expertise and contribute to an engaging learning environment! The book for the group is [Mastering Shiny](https://mastering-shiny.org/index.html)
